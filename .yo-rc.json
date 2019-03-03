@@ -1,0 +1,19 @@
+{
+  "generator-presento": {
+    "packageVersion": "0.1.0",
+    "revealTheme": "night",
+    "deployToGithubPages": true,
+    "githubRepository": "code-for-yourself",
+    "dockerize": false,
+    "promptValues": {
+      "githubUsername": "opodartho",
+      "author": "Zahidul Haque",
+      "email": "iisowrovii@gmail.com"
+    },
+    "presentationTitle": "code for yourself",
+    "presentationDescription": "Write code for solving your own problem",
+    "githubUsername": "opodartho",
+    "author": "Zahidul Haque",
+    "email": "iisowrovii@gmail.com"
+  }
+}

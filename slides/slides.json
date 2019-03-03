@@ -1,0 +1,30 @@
+[
+    "intro.md",
+    [
+        "confession-time.md",
+        "problems.md"
+    ],
+    "lazy.md",
+    "opinions.md",
+    "story.md",
+    [
+        "workshop.md",
+        "responsibility.md",
+        "making-slides.md",
+        "lots-of-code.md",
+        "screenshot.md",
+        "end-of-workshop.md"
+    ],
+    [
+        "docker-workshop.md",
+        "making-slides-again.md",
+        "oh-no.md",
+        "screenshot-again.md",
+        "done-with-it.md"
+    ],
+    "reveal-js.md",
+    "yeoman.md",
+    "generators.md",
+    "presento.md",
+    "thank-you.md"
+]
