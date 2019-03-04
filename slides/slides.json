@@ -1,9 +1,6 @@
 [
     "intro.md",
-    [
-        "confession-time.md",
-        "problems.md"
-    ],
+    "confession-time.md",
     "lazy.md",
     "opinions.md",
     "story.md",
