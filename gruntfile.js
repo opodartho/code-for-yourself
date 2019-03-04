@@ -32,7 +32,7 @@ module.exports = function(grunt) {
       themes: {
         expand: true,
         cwd: 'node_modules/reveal.js/css/theme/source',
-        src: ['black.sass', 'black.scss'],
+        src: ['night.sass', 'night.scss'],
         dest: 'build/css/theme',
         ext: '.css'
       }

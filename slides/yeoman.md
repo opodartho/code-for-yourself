@@ -1,1 +1,1 @@
-## [yeoman](https://yeoman.io)
+### [yeoman](https://yeoman.io)
