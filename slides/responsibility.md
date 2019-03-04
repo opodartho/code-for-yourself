@@ -1,1 +1,1 @@
-## Introduction to rails
+### Introduction to rails
